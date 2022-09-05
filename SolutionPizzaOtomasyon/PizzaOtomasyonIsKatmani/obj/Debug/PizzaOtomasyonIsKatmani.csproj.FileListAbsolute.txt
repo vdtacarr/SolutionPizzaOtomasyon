@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonIsKatmani\bin\Debug\PizzaOtomasyonIsKatmani.dll
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonIsKatmani\bin\Debug\PizzaOtomasyonIsKatmani.pdb
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonIsKatmani\bin\Debug\PizzaOtomasyonuVarliklar.dll
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonIsKatmani\bin\Debug\PizzaOtomasyonuVeriKatmani.dll
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonIsKatmani\bin\Debug\PizzaOtomasyonuVarliklar.pdb
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonIsKatmani\bin\Debug\PizzaOtomasyonuVeriKatmani.pdb
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonIsKatmani\obj\Debug\PizzaOtomasyonIsKatmani.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonIsKatmani\obj\Debug\PizzaOtomasyonIsKatmani.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonIsKatmani\obj\Debug\PizzaOtomasyonIsKatmani.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonIsKatmani\obj\Debug\PizzaOtomasyonIsKatmani.dll
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonIsKatmani\obj\Debug\PizzaOtomasyonIsKatmani.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonuVarliklar\bin\Debug\PizzaOtomasyonuVarliklar.dll
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonuVarliklar\bin\Debug\PizzaOtomasyonuVarliklar.pdb
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonuVarliklar\obj\Debug\PizzaOtomasyonuVarliklar.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonuVarliklar\obj\Debug\PizzaOtomasyonuVarliklar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonuVarliklar\obj\Debug\PizzaOtomasyonuVarliklar.dll
+C:\Users\Lenovo\source\repos\SolutionPizzaOtomasyon\PizzaOtomasyonuVarliklar\obj\Debug\PizzaOtomasyonuVarliklar.pdb
